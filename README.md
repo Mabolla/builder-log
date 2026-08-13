@@ -38,3 +38,9 @@
 
 # \- `progress.md` — dated builder notes and experiments
 
+
+## Current Focus
+
+- Building consistently on Base
+- Learning through small experiments
+- Keeping a clear record of progress
